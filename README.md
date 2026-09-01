@@ -11,10 +11,11 @@ Across 11 years in creator commerce, I grew from hands-on product architect to e
 - **Platforms and marketplaces:** creator commerce, monetization, data products, feedback loops, and multi-sided customer journeys.
 - **From ambiguity to execution:** a six-stage AI-enabled development system that reduced Ideation-to-Development-start time from eight weeks to four for initiatives not requiring new user research.
 
-[Portfolio](https://github.com/Burningcode/Portfolio) · [Resume](https://github.com/Burningcode/Portfolio/blob/master/RESUME.md) · [Case studies](https://github.com/Burningcode/Portfolio/blob/master/CASE-STUDIES.md) · [Public AI skills](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills) · [LinkedIn](https://www.linkedin.com/in/cjeburns/)
+[Portfolio](https://github.com/Burningcode/Portfolio) · [Resume](https://github.com/Burningcode/Portfolio/blob/master/RESUME.md) · [Featured case study](https://github.com/Burningcode/Portfolio/blob/master/case-studies/shopify-gifting/EXECUTIVE-SUMMARY.md) · [Public AI skills](https://github.com/Burningcode/handy-dandy-ai-skills/tree/main/skills) · [LinkedIn](https://www.linkedin.com/in/cjeburns/)
 
 ## Featured work
 
+- [Shopify-enabled Creator Gifting](https://github.com/Burningcode/Portfolio/blob/master/case-studies/shopify-gifting/EXECUTIVE-SUMMARY.md) — I turned a manual product-seeding bottleneck into a scalable commerce workflow that broadened creator access and helped brands use more allocated inventory without adding proportional coordination. Creators selected from brand-approved products, Shopify handled gift-tagged orders through the brand's normal fulfillment process, and brands kept control of creator fit, inventory, economics, and performance. A 3-week feasibility integration built with a staff engineer and tested with 5 enterprise brands reduced active brand-team handling time by approximately 95% per collaboration and supported approximately 10x program scale.
 - [Executive product portfolio](https://github.com/Burningcode/Portfolio) — leadership approach, selected outcomes, case studies, writing, and public-safe product playbooks.
 - [Handy Dandy AI Skills](https://github.com/Burningcode/handy-dandy-ai-skills) — reusable agent operating contracts for strategy, discovery, analytics, decision-making, and execution.
 
